@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="t" font-family="Inter, 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <title id="t">Finova logo</title>
+  <rect width="720" height="240" rx="24" fill="#0B0714"/>
+  <g transform="translate(60 56)">
+    <rect width="128" height="128" rx="30" fill="#7C3AED"/>
+    <rect x="44" y="34" width="14" height="60" rx="7" fill="#FFFFFF"/>
+    <rect x="44" y="34" width="44" height="14" rx="7" fill="#FFFFFF"/>
+    <rect x="44" y="58" width="30" height="14" rx="7" fill="#DDD1FF"/>
+  </g>
+  <text x="224" y="142" font-size="76" font-weight="700" fill="#EDE8F7" letter-spacing="-2">Finova</text>
+  <text x="228" y="176" font-size="16" fill="#A99FC4" letter-spacing="3">INCOME &amp; EXPENSE TRACKER</text>
+</svg>
